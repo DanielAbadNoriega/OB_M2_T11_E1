@@ -1,4 +1,4 @@
-# Open Bootcam: HTML&CSS.
+# Open Bootcamp: HTML&CSS.
 
 ## Tema 11: Ejercicio 1.
 
